@@ -10,7 +10,7 @@ export const V1_CONTRACT_ADDRESS =
   "0x162A4472a300E5FC555e51Bf556Db2fe06C19b13";
 
 export const V2_CONTRACT_ADDRESS =
-  "0x0B305D3CB1A26b1Be2c8A820d76d522554F73886";
+  "0x26276c7Fab0CDee5990C5B65bF93e467723D71f0";
 
 // =====================================================
 // READ CLIENT
